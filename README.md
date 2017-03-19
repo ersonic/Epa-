@@ -1,2 +1,2 @@
 # Epa+
-Ersonic Platform Application
+Ersonic Platform Application Plus
