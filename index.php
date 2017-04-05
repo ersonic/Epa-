@@ -1,3 +1,3 @@
 <?php
 echo __LINE__;
-echo 2;
+echo 3;
